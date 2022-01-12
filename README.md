@@ -1,4 +1,4 @@
-# title(){return this.options.title||this.options.name}
+# README ✅
 
 ## Supporting Scrimba 
 Happy Coding!
